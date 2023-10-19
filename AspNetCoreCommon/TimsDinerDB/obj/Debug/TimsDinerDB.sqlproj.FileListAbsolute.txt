@@ -1,0 +1,6 @@
+C:\Users\soque\Desktop\SE426_57\AspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerDB.dacpac
+C:\Users\soque\Desktop\SE426_57\AspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerDB.dll
+C:\Users\soque\Desktop\SE426_57\AspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerDB.pdb
+C:\Users\soque\Desktop\SE426_57\AspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.sqlproj.AssemblyReference.cache
+C:\Users\soque\Desktop\SE426_57\AspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.dll
+C:\Users\soque\Desktop\SE426_57\AspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.pdb

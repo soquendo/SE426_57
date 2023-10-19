@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Food] (Table)
+       [dbo].[Order] (Table)
+       [dbo].[spFood_All] (Procedure)
+       [dbo].[spOrders_Delete] (Procedure)
+       [dbo].[spOrders_GetById] (Procedure)
+       [dbo].[spOrders_Insert] (Procedure)
+       [dbo].[spOrders_UpdateName] (Procedure)
+
+** Supporting actions
