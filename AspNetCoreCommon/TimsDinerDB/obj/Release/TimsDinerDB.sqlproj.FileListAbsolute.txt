@@ -1,0 +1,9 @@
+C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.dacpac
+C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.dll
+C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.pdb
+C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\TimsDinerDB\obj\Release\Model.xml
+C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\TimsDinerDB\obj\Release\refactor.xml
+C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\TimsDinerDB\obj\Release\postdeploy.sql
+C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\TimsDinerDB\obj\Release\predeploy.sql
+C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.dll
+C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.pdb

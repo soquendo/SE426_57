@@ -8,7 +8,7 @@ using System.Threading.Tasks; //added
 
 namespace DataLibrary.Data
 {
-    public class FoodData
+    public class FoodData : IFoodData
     {
         //** notice the "_"
         //A neat way of communicating this is a local field/var/att (There is a way to automate this in tools)
