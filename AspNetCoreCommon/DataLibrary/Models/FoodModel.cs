@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataLibrary.Models
 {
-    class FoodModel
+    public class FoodModel
     {
         //match the properties to the fields within the food table we created earlier
 

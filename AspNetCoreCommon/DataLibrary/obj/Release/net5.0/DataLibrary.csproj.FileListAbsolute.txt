@@ -2,3 +2,8 @@ C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\DataLibrary\obj\
 C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\DataLibrary\obj\Release\net5.0\DataLibrary.AssemblyInfoInputs.cache
 C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\DataLibrary\obj\Release\net5.0\DataLibrary.AssemblyInfo.cs
 C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\DataLibrary\obj\Release\net5.0\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\soque\Desktop\NEIT Schoolwork\SE426_57\AspNetCoreCommon\DataLibrary\obj\Release\net5.0\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\soque\Desktop\NEIT Schoolwork\SE426_57\AspNetCoreCommon\DataLibrary\obj\Release\net5.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soque\Desktop\NEIT Schoolwork\SE426_57\AspNetCoreCommon\DataLibrary\obj\Release\net5.0\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\soque\Desktop\NEIT Schoolwork\SE426_57\AspNetCoreCommon\DataLibrary\obj\Release\net5.0\DataLibrary.AssemblyInfo.cs
+C:\Users\soque\Desktop\NEIT Schoolwork\SE426_57\AspNetCoreCommon\DataLibrary\obj\Release\net5.0\DataLibrary.csproj.CoreCompileInputs.cache

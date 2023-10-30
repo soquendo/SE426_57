@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="TimsDinerDB.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\008016420\DESKTOP\MYPROJECTS\SE426_57\ASPNETCORECOMMON\TIMSDINERDB\OBJ\RELEASE\TIMSDINERDB.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\SOQUE\DESKTOP\NEIT SCHOOLWORK\SE426_57\ASPNETCORECOMMON\TIMSDINERDB\OBJ\RELEASE\TIMSDINERDB.DLL" />
 			<Metadata Name="AssemblyName" Value="TimsDinerDB" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\008016420\Desktop\myprojects\SE426_57\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\soque\Desktop\NEIT Schoolwork\SE426_57\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>

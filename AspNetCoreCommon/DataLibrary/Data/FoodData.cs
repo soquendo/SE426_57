@@ -25,7 +25,12 @@ namespace DataLibrary.Data
 
         public Task<List<FoodModel>> GetFood()
         {
+            //dynamic keyword allows us to create or pull something in on the fly
+            //dynamic represents the "U" parameter, so we could create the "new{}" item in the "U" parameter
+            //was there a list of params for the spFood_All stored procedure?
+            //Notice this is a task but theres no async/await - passed on (expected) by the caller
 
+            return _dataAccess.LoadData<FoodModel, dynamic>("dbo.spFood_All", new { }, _connectionString.SqlConnectionName);
         }
     }
 }

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\008016420\\Desktop\\myprojects\\SE426_57\\AspNetCoreCommon\\DataLibrary\\DataLibrary.csproj": {}
+    "C:\\Users\\soque\\Desktop\\NEIT Schoolwork\\SE426_57\\AspNetCoreCommon\\DataLibrary\\DataLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\008016420\\Desktop\\myprojects\\SE426_57\\AspNetCoreCommon\\DataLibrary\\DataLibrary.csproj": {
+    "C:\\Users\\soque\\Desktop\\NEIT Schoolwork\\SE426_57\\AspNetCoreCommon\\DataLibrary\\DataLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\008016420\\Desktop\\myprojects\\SE426_57\\AspNetCoreCommon\\DataLibrary\\DataLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\soque\\Desktop\\NEIT Schoolwork\\SE426_57\\AspNetCoreCommon\\DataLibrary\\DataLibrary.csproj",
         "projectName": "DataLibrary",
-        "projectPath": "C:\\Users\\008016420\\Desktop\\myprojects\\SE426_57\\AspNetCoreCommon\\DataLibrary\\DataLibrary.csproj",
-        "packagesPath": "C:\\Users\\008016420\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\008016420\\Desktop\\myprojects\\SE426_57\\AspNetCoreCommon\\DataLibrary\\obj\\",
+        "projectPath": "C:\\Users\\soque\\Desktop\\NEIT Schoolwork\\SE426_57\\AspNetCoreCommon\\DataLibrary\\DataLibrary.csproj",
+        "packagesPath": "C:\\Users\\soque\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\soque\\Desktop\\NEIT Schoolwork\\SE426_57\\AspNetCoreCommon\\DataLibrary\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\008016420\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\soque\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
