@@ -39,5 +39,31 @@ namespace RPDemoApp.Pages.Orders
             }
             );
         }
+
+        public async Task<IActionResult> OnPost()
+        {
+            if(ModelState.IsValid == false) //how else could i write this? why write it this way
+            {
+                return Page();
+            }
+            else
+            {
+                //*************
+                //calculate total (qty * price)
+
+                var food = await _foodData.GetFood();       //get list of food items
+
+                Order.Total = Order.Quantity * food.Where(x => x.Id == Order.FoodId).First().Price;     //get price of mathcing item and calc total cost
+                                                                                                        // can this be done more efficiently
+                                                                                                        
+                //******************
+                // perform the insertion into the DB table
+                // redirect to a new copy of the ordering page
+
+                int id = await _orderData.CreateOrder(Order);     //insert the record using the DB libraries we created and return the ID of new record
+                return RedirectToPage("./Create");              //right now we just return to a fresh copy of this page
+            }
+        }
+
     }
 }

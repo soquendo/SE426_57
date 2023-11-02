@@ -30,3 +30,9 @@
     </div>
 
 </form>
+
+@section scripts
+{
+    @*This code allows the client side validation to take place so the form is not waiting until we hit submit button to start seeing validation comments*@
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

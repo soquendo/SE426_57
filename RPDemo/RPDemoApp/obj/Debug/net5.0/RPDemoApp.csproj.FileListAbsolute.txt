@@ -83,3 +83,4 @@ C:\Users\soque\Desktop\NEIT Schoolwork\SE426_57\RPDemo\RPDemoApp\bin\Debug\net5.
 C:\Users\soque\Desktop\NEIT Schoolwork\SE426_57\RPDemo\RPDemoApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
 C:\Users\soque\Desktop\NEIT Schoolwork\SE426_57\RPDemo\RPDemoApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
 C:\Users\soque\Desktop\NEIT Schoolwork\SE426_57\RPDemo\RPDemoApp\obj\Debug\net5.0\Razor\Pages\Orders\Create.cshtml.g.cs
+C:\Users\soque\Desktop\NEIT Schoolwork\SE426_57\RPDemo\RPDemoApp\obj\Debug\net5.0\RPDemoApp.csproj.AssemblyReference.cache
